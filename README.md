@@ -14,9 +14,6 @@ Deployed to Git Pages at https://ngolilli94.github.io/
 <img src="personalPokedex_modal.jpeg">
 
 ## Built Using
-* VSCode
-* Koala (SCSS Compiler)
-* Github
 * PokeAPI
 * kylefox jQuery Modal (Library)
 * Superpencil pokemon-font (Github)
