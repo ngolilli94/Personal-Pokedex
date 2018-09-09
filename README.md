@@ -14,9 +14,7 @@ Deployed to Git Pages at https://ngolilli94.github.io/
 <img src="personalPokedex_modal.jpeg">
 
 ## Built Using
-* PokeAPI
-* kylefox jQuery Modal (Library)
-* Superpencil pokemon-font (Github)
-* W3Schools (for image hover overlay effect tutorial)
-* John's knowledge :) 
-* David's instructing ^^
+* PokeAPI (https://github.com/PokeAPI/pokeapi)
+* kylefox jQuery Modal (http://jquerymodal.com/)
+* Superpencil pokemon-font (https://github.com/Superpencil/pokemon-font)
+* W3Schools image hover overlay effect tutorial (https://www.w3schools.com/howto/howto_css_image_overlay.asp)
