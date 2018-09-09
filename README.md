@@ -10,6 +10,7 @@ Styling inspired by Pokémon core game series--layout designed to look like star
 Deployed to Git Pages at https://ngolilli94.github.io/
 
 <img src="personalPokedex.jpeg">
+<img src="personalPokedex_hover.png">
 <img src="personalPokedex_modal.jpeg">
 
 ## Built Using
