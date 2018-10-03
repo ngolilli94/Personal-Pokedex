@@ -7,7 +7,7 @@ To create a pokemon trainer showcase website that displays information focused a
 Styling inspired by Pokémon core game series--layout designed to look like starter Pokémon selection screen while modal styling is reminiscent of in-game Pokédex entries from border to font to color choice. 
 
 ## Deployment
-Deployed to Git Pages at https://ngolilli94.github.io/
+Deployed to Heroku at https://elle-poketeam.herokuapp.com/index.html
 
 <img src="personalPokedex.jpeg">
 <img src="personalPokedex_hover.png">
